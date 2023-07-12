@@ -22,3 +22,6 @@ img {
   width: 350px;
   height: 350px;
 }
+li {
+  list-style-type: circle;
+}
